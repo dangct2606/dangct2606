@@ -19,21 +19,21 @@ I'm also expanding into desktop application development, developer tools, and cr
 
 ## 🚀 Experience & Projects
 
-**TrangEdu — Founder & Web Developer (2020–Present)**
+**TrangEdu | Founder & Web Developer (2020–Present)**
 
 Developing and maintaining an education-information platform focused on structured content, searchable information, usability, and ongoing website improvements.
 
-**Softdreams Digital Product Ecosystem — Web Developer (2018–2021)**
+**Softdreams Digital Product Ecosystem | Web Developer (2018–2021)**
 
 Contributed to responsive product websites, landing pages, interface improvements, troubleshooting, and website maintenance.
 
-**HapyOrder — Web Developer (2019–2020)**
+**HapyOrder | Web Developer (2019–2020)**
 
 Worked on customer-facing web interfaces, responsive components, functional testing, and website maintenance.
 
 ## 🛠 Current Development
 
-**TrangEdu Web Crawler — Work in Progress**
+**TrangEdu Web Crawler | Work in Progress**
 
 A Windows desktop technical SEO crawler being developed with Rust, Tauri, React, TypeScript, and SQLite. The project focuses on scalable crawling, website analysis, reliable data handling, and desktop usability.
 
