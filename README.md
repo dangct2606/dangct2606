@@ -51,7 +51,7 @@ Exploring procedural animation, interactive 3D visuals, particle effects, and co
 
 **Hanoi University of Science and Technology**
 
-Bachelor's Degree in Information Technology  
+Engineer’s Degree in Information Technology  
 Computer Networks & Data Communications | 2012–2017
 
 ## 🤝 Collaboration
